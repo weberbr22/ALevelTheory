@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+RIk6QL2oxjUPRJaPJfbHxxk4Ne+QgJ0J7Fa6IyX2XBjMzYy1Li68H8Rkfa2E6sG6VPS+dh7jS8T+gGpSCE5+Q==",
+  "success": true,
+  "projectFilePath": "/Users/rexwb/Academic/Computing/Theory/ALevelTheory/ALevelTheory.csproj",
+  "expectedPackageFiles": [
+    "/Users/rexwb/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/rexwb/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/rexwb/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
