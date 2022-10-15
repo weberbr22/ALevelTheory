@@ -2,7 +2,7 @@
 
 namespace ALevelTheory
 {
-    class Program
+    class CaeserCipher
     {
 
         private static char Cipher(char ch, int key)
@@ -27,11 +27,6 @@ namespace ALevelTheory
         public static string Decipher(string input, int key)
         {
             return Encipher(input, 26 - key);
-        }
-
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
         }
     }
 }

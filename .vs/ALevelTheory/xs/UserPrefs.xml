@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{57714E5C-8421-4C2B-B564-DAB754E74E8C}|Default">
-  <MonoDevelop.Ide.ItemProperties.ALevelTheory FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ALevelTheory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VernamCipher.cs">
+    <Files>
+      <File FileName="CaeserChiper.cs" Line="34" Column="1" />
+      <File FileName="VernamCipher.cs" Line="16" Column="29" />
+      <File FileName="Program.cs" Line="13" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ALevelTheory" expanded="True">
+            <Node name="ALevelTheory" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

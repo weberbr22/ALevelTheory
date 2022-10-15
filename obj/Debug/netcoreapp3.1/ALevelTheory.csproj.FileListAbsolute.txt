@@ -1,0 +1,14 @@
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/bin/Debug/netcoreapp3.1/ALevelTheory
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/bin/Debug/netcoreapp3.1/ALevelTheory.deps.json
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/bin/Debug/netcoreapp3.1/ALevelTheory.runtimeconfig.json
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/bin/Debug/netcoreapp3.1/ALevelTheory.runtimeconfig.dev.json
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/bin/Debug/netcoreapp3.1/ALevelTheory.dll
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/bin/Debug/netcoreapp3.1/ALevelTheory.pdb
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/obj/Debug/netcoreapp3.1/ALevelTheory.csproj.AssemblyReference.cache
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/obj/Debug/netcoreapp3.1/ALevelTheory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/obj/Debug/netcoreapp3.1/ALevelTheory.AssemblyInfoInputs.cache
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/obj/Debug/netcoreapp3.1/ALevelTheory.AssemblyInfo.cs
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/obj/Debug/netcoreapp3.1/ALevelTheory.csproj.CoreCompileInputs.cache
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/obj/Debug/netcoreapp3.1/ALevelTheory.dll
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/obj/Debug/netcoreapp3.1/ALevelTheory.pdb
+/Users/rexwb/Academic/Computing/Theory/ALevelTheory/obj/Debug/netcoreapp3.1/ALevelTheory.genruntimeconfig.cache
